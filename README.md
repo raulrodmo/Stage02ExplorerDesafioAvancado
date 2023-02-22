@@ -13,7 +13,7 @@ Repositório do 1º desafio avançado da turma 09 do explorer, o objetivo era cr
 <br>
 
 <p align="center">
-  <img alt="Rocket.sect" src=".github/preview.jpg" width="100%">
+  <img src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
